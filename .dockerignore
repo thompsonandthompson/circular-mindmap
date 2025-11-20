@@ -1,0 +1,11 @@
+node_modules
+build
+dist
+.git
+.gitignore
+Dockerfile
+nginx.conf
+npm-debug.log
+README.md
+.vscode
+package-lock.json
